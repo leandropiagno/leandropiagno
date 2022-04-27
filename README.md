@@ -4,7 +4,7 @@
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/leandropiagno)
 
 ![Leandro Piagno GitHub stats](https://github-readme-stats.vercel.app/api?username=leandropiagno&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandropiagno&layout=compact&theme=dracula)](https://github.com/leandropiagno)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandropiagno&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias
 
@@ -15,6 +15,8 @@
 </div><br>
 
 #### Apaixonado por tecnologia e sempre em busca de conhecimento.<br> Ganbatte "Se esforce!" Este é um dos meus pilares.
+
+
 
 
 

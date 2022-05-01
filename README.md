@@ -1,18 +1,38 @@
-### Olá! Eu sou o Leandro Piagno 🖐️
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Leandro Piagno</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leandropiagno&color=yellow" alt="Visualizações do perfil" /> </p>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-piagno/)
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/leandropiagno)
 
-![Leandro Piagno GitHub stats](https://github-readme-stats.vercel.app/api?username=leandropiagno&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandropiagno&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-## Tecnologias
+##  🛠   Pilha de tecnologia
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</div><br>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+    
+<div><br>
+
+
+##  ⚙️   GitHub Analytics
+
+<p align="esquerda">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=leandropiagno&show_icons=true&theme=dracula" alt="leandropiagno's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandropiagno&layout=compact&theme=dracula" alt="mais idiomas do leandropiagno" />
+</p>
+
+<br><br>
+
+
+##  👨🏽‍🦲   Links sociais
+
+<a href="https://www.linkedin.com/in/leandro-piagno/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-leandropiagno-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+    
+<br><br>
+
 
 #### Apaixonado por tecnologia e sempre em busca de conhecimento.<br> Ganbatte "Se esforce!" Este é um dos meus pilares.
 

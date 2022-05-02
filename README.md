@@ -22,7 +22,7 @@
   <img align="center" src="https://img.shields.io/badge/-leandropiagno-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
     
-<br><br><hr>
+<br><br>
 
 
 #### Apaixonado por tecnologia e sempre em busca de conhecimento.<br> Ganbatte "Se esforce!" Este é um dos meus pilares.

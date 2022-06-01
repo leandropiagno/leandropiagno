@@ -4,11 +4,13 @@
 ##  🛠   Pilha de tecnologia
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/><div><br><br>
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
+    <img align="center" alt="SASS" src="https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&logoColor=c76494"/>
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=React"/>
+    <img align="center" alt="Git" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
+    <img align="center" alt="GitHub" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
+    <img align="center" alt="VScode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/><div><br><br>
 
 ##  ⚙️   GitHub Analytics
 <p align="esquerda">
@@ -22,9 +24,7 @@
   <img align="center" src="https://img.shields.io/badge/-leandropiagno-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
     
-<br><br>
+<br><br><hr>
 
 
 #### Apaixonado por tecnologia e sempre em busca de conhecimento.<br> Ganbatte "Se esforce!" Este é um dos meus pilares.
-
-

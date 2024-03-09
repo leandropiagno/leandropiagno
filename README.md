@@ -1,30 +1,21 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Leandro Piagno</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leandropiagno&color=yellow" alt="Visualizações do perfil" /> </p><br>
+<h1 align="center">Olá 👋, eu sou Leandro Piagno</h1>
+<h3 align="center">Apaixonado por transformar dados complexo em informações claras.</h3>
 
-##  🛠   Pilha de tecnologia
-<div style="display: inline_block">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
-    <img align="center" alt="SASS" src="https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&logoColor=c76494"/>
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=React"/>
-    <img align="center" alt="Git" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-    <img align="center" alt="GitHub" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
-    <img align="center" alt="VScode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/><div><br><br>
+- 🌱 Atualmento estou aprendendo **Python**
 
-##  ⚙️   GitHub Analytics
-<p align="esquerda">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=leandropiagno&show_icons=true&theme=dracula" alt="leandropiagno's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandropiagno&layout=compact&theme=dracula" alt="mais idiomas do leandropiagno" />
-</p><br><br>
+- 💬 Me pergunte sobre **Power BI, SQL, Excel e Python**
 
-##  👨🏽‍🦲   Links sociais
+- 📫 Você me encontra através do e-mail **leandropiagno1984@gmail.com**
 
-<a href="https://www.linkedin.com/in/leandro-piagno/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-leandropiagno-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-    
-<br><br><hr>
+- 📄 Veja minhas experiências através do Linkedin [https://www.linkedin.com/in/leandro-piagno/](https://www.linkedin.com/in/leandro-piagno/)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/leandro-piagno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leandro-piagno/" height="30" width="40" /></a>
+</p>
 
-#### Apaixonado por tecnologia e sempre em busca de conhecimento.<br> Ganbatte "Se esforce!" Este é um dos meus pilares.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandropiagno&show_icons=true&locale=en&layout=compact" alt="leandropiagno" /></p>
+

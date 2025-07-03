@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Leandro Piagno</h1>
-<h3 align="center">Especialista em Observabilidade | Foco em APM, SRE e Monitoramento de Infraestrutura</h3>
+<h3 align="center">Analista de Observabilidade Pleno | Foco em APM, SRE e Monitoramento de Infraestrutura</h3>
 
 - 🔭 Atuação com **Observabilidade, APM, SRE Mindset e Monitoramento de Ambientes Críticos**
 - 🧠 Certificado **Datadog Fundamentals** (badge oficial via Credly)

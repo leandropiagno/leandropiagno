@@ -39,11 +39,11 @@
 </p>
 
 <!-- Badge opcional -->
-<h3 align="left">Certificações:</h3>
+<!--<h3 align="left">Certificações:</h3>
 <p align="left">
   <a href="https://www.credly.com/badges/SEU-LINK-AQUI" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/2b046f3c-9853-4f55-a66c-c6b62b5fe871/image.png" alt="Datadog Fundamentals" width="120"/>
   </a>
-</p>
+</p> -->
 
 

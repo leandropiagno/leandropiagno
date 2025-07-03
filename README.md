@@ -5,7 +5,6 @@
 - 🧠 Certificado **Datadog Fundamentals** (badge oficial via Credly)
 - 📡 Experiência com **Dashboards, Monitores, Logs, Traces, Métricas e Alertas**
 - ⚙️ Conhecimento em **integrações com APIs, Kubernetes, Docker, e ambientes Linux**
-- 🌱 Aprendendo continuamente sobre **Python voltado para automações e infraestrutura**
 - 📫 Contato: **leandropiagno1984@gmail.com**
 - 🔗 Veja meu perfil completo no [LinkedIn](https://www.linkedin.com/in/leandro-piagno/)
 
@@ -21,9 +20,6 @@
   <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datadog/datadog-original.svg" alt="Datadog" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
@@ -32,6 +28,13 @@
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">Certificações:</h3>
+<p align="left">
+  <a href="https://www.credly.com/badges/SEU-LINK-AQUI" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/2b046f3c-9853-4f55-a66c-c6b62b5fe871/image.png" alt="Datadog Fundamentals" width="120"/>
   </a>
 </p>
 
